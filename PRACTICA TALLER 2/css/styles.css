@@ -1,0 +1,50 @@
+header {
+    display:flex;
+    align-items: center;
+    background-color: aqua;
+    
+}
+
+header img{
+    width: 6%;
+    padding: 15px;
+}
+
+.presentacion{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.presentacion img{
+    width: 35%;
+    padding: 15px;
+}
+
+
+#campos{
+    list-style: none;
+    
+}
+
+.col-md-12{
+    padding: 10px;
+    
+}
+
+footer{
+    display: flex;
+    background-color: gray;
+    color:goldenrod;
+    padding: 42px;
+    
+    
+}
+
+footer h3{
+    font-size: 130%;
+}
+
+
+
+

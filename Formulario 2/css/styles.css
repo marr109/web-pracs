@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+}
+header{
+    display: flex;
+    background-color: aqua;
+    align-items: center;
+    width: 100%;
+}
+h1{
+    text-align: end;
+}
+header img{
+    width: 6%;
+    height: auto;
+    padding: 15px;
+}
+
+.presentacion{
+    display: flex;
+    justify-content: center;
+}

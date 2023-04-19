@@ -1,0 +1,36 @@
+
+nav{
+    background-color: aqua;
+}
+
+.list-navbar{
+    list-style: none;
+    display: flex;
+}
+
+.list-navbar li{
+    padding: 0.5em;
+}
+
+.container-caja{
+    text-align: center;
+}
+
+img{
+    height: 200px;
+}
+
+.campos-form{
+    list-style: none;
+}
+
+.footer-feo{
+    background-color: blue;
+    color:white;
+    font-weight: 150;
+}
+
+/*ESTILOS PARA VALIDACION DE JQUERY*/
+label.error{
+    color: red;
+}
